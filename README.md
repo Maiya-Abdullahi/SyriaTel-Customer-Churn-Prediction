@@ -26,7 +26,8 @@ How can the model's insights inform marketing and customer service strategies?.
 - Applied SMOTE to handle class imbalance.
 - Scaled Train and Test set Using StandardScaler
 - Selected important features using feature importance from XGBoost.
-
+- Created new features
+  
 ##  Model Building & Evaluation
 | Model                | Precision | Recall | F1-score |
 |----------------------|----------|--------|----------|
