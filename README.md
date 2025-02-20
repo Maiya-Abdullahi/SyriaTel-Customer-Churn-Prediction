@@ -7,7 +7,7 @@ This project focuses on predicting customer churn for SyriaTel using machine lea
 ### **Business Problem**
 SyriaTel, a leading telecommunications company, faces a major challenge: customer churn. Customers leaving the network results in revenue loss and increased costs to acquire new users. To maintain profitability and customer loyalty, SyriaTel needs a reliable way to predict which customers are likely to churn and take proactive retention measures.
 
-### **The goal of this project** is to build a Classification model to predict whether customers are at risk of churning based on their call usage, account features, and service complaints. SyriaTel can then implement targeted retention strategies, such as offering discounts or improving service.
+**The goal of this project** is to build a Classification model to predict whether customers are at risk of churning based on their call usage, account features, and service complaints. SyriaTel can then implement targeted retention strategies, such as offering discounts or improving service.
 
 #### Key Business Questions:
 What are the key factors that contribute to customer churn?
